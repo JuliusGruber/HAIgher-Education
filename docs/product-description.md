@@ -16,7 +16,7 @@ It continuously scans the internet, globally and across languages, for everythin
 
 ### How It Works
 
-**1. Continuous collection.** The engine constantly gathers from every available channel and format: news articles, official university announcements, researcher and educator blogs, LinkedIn and X posts, policy documents, and videos on platforms like YouTube (transcribed). Non-English sources are translated, so coverage reaches beyond the English-speaking web.
+**1. Continuous collection.** The engine constantly gathers from every available channel and format: scientific papers and preprints (e.g., on arXiv), journal articles, and conference proceedings on how AI is altering lecturing and research, news articles, official university announcements, researcher and educator blogs, LinkedIn and X posts, policy documents, and videos on platforms like YouTube (transcribed). Non-English sources are translated, so coverage reaches beyond the English-speaking web.
 
 **2. A living knowledge graph.** Everything collected is extracted into a knowledge graph connecting topics, institutions, people, tools, policies, and events — the structured, up-to-date memory of the field.
 
